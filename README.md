@@ -5,7 +5,7 @@
 - <b>[Food App](https://github.com/AlinGoia/FoodApp)</b>
 - <b>[E-commerce site](https://github.com/AlinGoia/E-commerce)</b>
 - <b>[CV Generator](https://github.com/AlinGoia/CV-Generator)</b>
-- <b>[Food App](https://github.com/AlinGoia/FoodApp)</b>
+- <b>[Web Scraper](https://github.com/AlinGoia/WebScraper)</b>
   
   
 <h2> 🤳 Connect with me:</h2>
