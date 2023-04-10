@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>[Food App](https://github.com/AlinGoia/FoodApp)</b>
-- <b>[Food App](https://github.com/AlinGoia/FoodApp)</b>
+- <b>[E-commerce site](https://github.com/AlinGoia/E-commerce)</b>
 - <b>[Food App](https://github.com/AlinGoia/FoodApp)</b>
 - <b>[Food App](https://github.com/AlinGoia/FoodApp)</b>
   
