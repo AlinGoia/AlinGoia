@@ -4,7 +4,7 @@
 
 - <b>[Food App](https://github.com/AlinGoia/FoodApp)</b>
 - <b>[E-commerce site](https://github.com/AlinGoia/E-commerce)</b>
-- <b>[Food App](https://github.com/AlinGoia/FoodApp)</b>
+- <b>[CV Generator](https://github.com/AlinGoia/CV-Generator)</b>
 - <b>[Food App](https://github.com/AlinGoia/FoodApp)</b>
   
   
