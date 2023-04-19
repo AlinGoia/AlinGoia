@@ -6,6 +6,7 @@
 - <b>[E-commerce site](https://github.com/AlinGoia/E-commerce)</b>
 - <b>[CV Generator](https://github.com/AlinGoia/CV-Generator)</b>
 - <b>[Web Scraper](https://github.com/AlinGoia/WebScraper)</b>
+- <b>[Calorie Count](https://github.com/AlinGoia/Calorie-Count)</b>
   
   
 <h2> 🤳 Connect with me:</h2>
